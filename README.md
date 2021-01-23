@@ -1,2 +1,2 @@
 # 200birdspecies Cnn Application
-Recognizing which species a bird is
+Recognizing which species a  given bird is
